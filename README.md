@@ -25,5 +25,5 @@ To predict whether a person is creditworthy or not using machine learning.
   - ROC-AUC Score
   - Confusion Matrix
 
-## ▶️ How to Run
-1. Install required libraries:
+
+
